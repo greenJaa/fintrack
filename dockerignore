@@ -1,0 +1,8 @@
+#files
+*.md
+*.lock
+*.pyc
+
+#folders
+.gitignore
+.git
